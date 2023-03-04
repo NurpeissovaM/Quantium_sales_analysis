@@ -1,2 +1,2 @@
 # Quantium_sales_analysis
-Data analytics virtual experience program at Quantium
+Here you will find solutions to various tasks done by me under Quantium Data Analytics Virtual Internship. 
